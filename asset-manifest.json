@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/vh-wiki-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/vh-wiki-app/static/js/main.0c91d4cd.chunk.js",
-    "main.js.map": "/vh-wiki-app/static/js/main.0c91d4cd.chunk.js.map",
-    "runtime-main.js": "/vh-wiki-app/static/js/runtime-main.dadcc06c.js",
-    "runtime-main.js.map": "/vh-wiki-app/static/js/runtime-main.dadcc06c.js.map",
-    "static/js/2.31e12da1.chunk.js": "/vh-wiki-app/static/js/2.31e12da1.chunk.js",
-    "static/js/2.31e12da1.chunk.js.map": "/vh-wiki-app/static/js/2.31e12da1.chunk.js.map",
-    "static/js/3.705274e8.chunk.js": "/vh-wiki-app/static/js/3.705274e8.chunk.js",
-    "static/js/3.705274e8.chunk.js.map": "/vh-wiki-app/static/js/3.705274e8.chunk.js.map",
-    "index.html": "/vh-wiki-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/vh-wiki-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.31e12da1.chunk.js.LICENSE.txt": "/vh-wiki-app/static/js/2.31e12da1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/vh-wiki-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/vh-wiki/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vh-wiki/static/js/main.0c91d4cd.chunk.js",
+    "main.js.map": "/vh-wiki/static/js/main.0c91d4cd.chunk.js.map",
+    "runtime-main.js": "/vh-wiki/static/js/runtime-main.c3b0fa42.js",
+    "runtime-main.js.map": "/vh-wiki/static/js/runtime-main.c3b0fa42.js.map",
+    "static/js/2.31e12da1.chunk.js": "/vh-wiki/static/js/2.31e12da1.chunk.js",
+    "static/js/2.31e12da1.chunk.js.map": "/vh-wiki/static/js/2.31e12da1.chunk.js.map",
+    "static/js/3.705274e8.chunk.js": "/vh-wiki/static/js/3.705274e8.chunk.js",
+    "static/js/3.705274e8.chunk.js.map": "/vh-wiki/static/js/3.705274e8.chunk.js.map",
+    "index.html": "/vh-wiki/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vh-wiki/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.31e12da1.chunk.js.LICENSE.txt": "/vh-wiki/static/js/2.31e12da1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vh-wiki/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dadcc06c.js",
+    "static/js/runtime-main.c3b0fa42.js",
     "static/js/2.31e12da1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.0c91d4cd.chunk.js"
