@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/vh-wiki/static/js/main.bc2eeea6.chunk.js",
-    "main.js.map": "/vh-wiki/static/js/main.bc2eeea6.chunk.js.map",
+    "main.js": "/vh-wiki/static/js/main.507eb437.chunk.js",
+    "main.js.map": "/vh-wiki/static/js/main.507eb437.chunk.js.map",
     "runtime-main.js": "/vh-wiki/static/js/runtime-main.c189735a.js",
     "runtime-main.js.map": "/vh-wiki/static/js/runtime-main.c189735a.js.map",
     "static/js/2.eb47b63a.chunk.js": "/vh-wiki/static/js/2.eb47b63a.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c189735a.js",
     "static/js/2.eb47b63a.chunk.js",
-    "static/js/main.bc2eeea6.chunk.js"
+    "static/js/main.507eb437.chunk.js"
   ]
 }
