@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vh-wiki/static/css/main.60ffafc2.chunk.css",
-    "main.js": "/vh-wiki/static/js/main.d5fdee12.chunk.js",
-    "main.js.map": "/vh-wiki/static/js/main.d5fdee12.chunk.js.map",
+    "main.js": "/vh-wiki/static/js/main.ea588b5e.chunk.js",
+    "main.js.map": "/vh-wiki/static/js/main.ea588b5e.chunk.js.map",
     "runtime-main.js": "/vh-wiki/static/js/runtime-main.c189735a.js",
     "runtime-main.js.map": "/vh-wiki/static/js/runtime-main.c189735a.js.map",
     "static/js/2.52871a03.chunk.js": "/vh-wiki/static/js/2.52871a03.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c189735a.js",
     "static/js/2.52871a03.chunk.js",
     "static/css/main.60ffafc2.chunk.css",
-    "static/js/main.d5fdee12.chunk.js"
+    "static/js/main.ea588b5e.chunk.js"
   ]
 }
